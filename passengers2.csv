@@ -1,7 +1,14 @@
-Name,FrequentFlyer,Miles
-John Doe,TRUE,1500
-Jane Smith,FALSE,300
-Emily Johnson,TRUE,750
-Michael Brown,FALSE,2000
-Sarah Davis,TRUE,1200
-David Wilson,FALSE,500
+Passenger Name,Frequent Flyer Member,Number of Miles Flown
+Alice Miller,true,20000
+Bob Waka,false,0
+Cynthia Amorosa,true,80400
+Derick Chan,true,107860
+Elmo Fitzgerald,false,0
+Francis Tucker,true,90200
+George Kalani Stevens,true,317810
+Helen Cruz,true,506450
+Irene Escher,false,0
+James Mau,false,0
+Kelly Tanura,true,0
+Laurie Kahele,true,90840
+Mary Asher,false,0
